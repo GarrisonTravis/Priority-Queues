@@ -32,3 +32,13 @@ Operations:
   - pop O(1)
   - top O(1)
   - print
+  
+### Heap: ###
+  - empty O(1)
+  - size O(1)
+  - push O(log n)
+  - pop O(log n)
+  - top O(1)
+  - print
+  
+Property of Garrison Travis
