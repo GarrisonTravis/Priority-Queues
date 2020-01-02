@@ -10,7 +10,9 @@ Priority Queues as Sorting Algorithms:
 By pushing a number of entries, and then popping every entry in the Priority Queue, the resulting entries will be sorted from greatest to lowest priority.
 
 The Unsorted PQ will show a version of selection sort.
+
 The Sorted PQ will show a version of insertion sort.
+
 The Heap PQ will show a version of Heap sort.
 
 Operations:
