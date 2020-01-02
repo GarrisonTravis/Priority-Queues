@@ -15,6 +15,10 @@ private:
     vector<pair<int, Type>> uPQ;
 public:
     UnsortedPQ() {}
+
+    ~UnsortedPQ() {
+        uPQ.clear();
+    }
     
     //Returns true if PQ is empty, else return false
     bool empty() {
