@@ -67,7 +67,7 @@ public:
         return *sPQ.begin();
     }
 
-    //Outputs the current unsorted PQ to the screen
+    //Outputs the current sorted PQ to the screen
     //Includes the key and value
     void print() {
         cout << "SortedPQ = [";
