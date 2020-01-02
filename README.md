@@ -7,10 +7,10 @@ When an entry is popped from the Priority Queue, it will be the entry with the h
 
 Operations:
 -----------
-  ### Heading 3 ###
-    - empty O(1)
-    - size O(1)
-    - push O(1)
-    - pop O(n)
-    - top O(n)
-    - print
+  ### Unsorted: ###
+  - empty O(1)
+  - size O(1)
+  - push O(1)
+  - pop O(n)
+  - top O(n)
+  - print
