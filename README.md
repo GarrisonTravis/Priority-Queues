@@ -28,7 +28,7 @@ Operations:
 ### Sorted: ###
   - empty O(1)
   - size O(1)
-  - push O(n)
+  - push O(n^2)
   - pop O(1)
   - top O(1)
   - print
