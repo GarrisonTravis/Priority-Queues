@@ -24,3 +24,11 @@ Operations:
   - pop O(n)
   - top O(n)
   - print
+
+### Sorted: ###
+  - empty O(1)
+  - size O(1)
+  - push O(n)
+  - pop O(1)
+  - top O(1)
+  - print
