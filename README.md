@@ -40,5 +40,3 @@ Operations:
   - pop O(log n)
   - top O(1)
   - print
-  
-Property of Garrison Travis
